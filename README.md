@@ -4,7 +4,12 @@ building simple chess game by using Swift language for IOS.
 ![boardgame](Screenshot.png)
 
 ## Overview
-This project uses the Swift Package Manager (.swiftpm) for dependency management. using brute-force method to simple create this game.
+This project uses the Swift Package Manager (.swiftpm) for dependency management. using brute-force method to simple create this game, and following are features
+- draw possible moves and attack square
+- checkmate Status alert and restart
+- when got check need to force move king or block with other pices
+
+![possbileMoves](possibleMove.png) ![checkmate](checkmate.png)
 
 ## Usage
 ### Swift Package Manager
